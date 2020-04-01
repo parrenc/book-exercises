@@ -14,6 +14,8 @@ In this exercise you'll practice using git to clone and edit repositories, as wi
 1. Banana
 2. Peanubutter
 3. Rice cracker
+4. bread
+5. ham
 
 6. Using your terminal, add and commit the changes you've made to your repository
 
