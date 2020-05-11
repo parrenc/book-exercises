@@ -30,3 +30,5 @@ To complete the exercise, follow the below steps:
 11. Be sure to `add` and `commit` that you've resolved the conflict.
 
 12. Use `git status` to confirm that everything is now merged.
+
+I havent had breakfast yet.
